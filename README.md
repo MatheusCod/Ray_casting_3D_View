@@ -8,6 +8,6 @@ Instructions on how to run the program can be found at: https://love2d.org/wiki/
 The WASD/arrows keys move the character. The 'Tab' key ables/disable the 2D view by the right bottom of the screen the game's mode.
 
 ## Previews
-<p>
-  <img align="center" src="https://github.com/MatheusCod/Ray_casting_3D_View/blob/master/preview.gif" width="400" height="300">
+<p align="center">
+  <img src="https://github.com/MatheusCod/Ray_casting_3D_View/blob/master/preview.gif" width="400" height="300">
 </p>
