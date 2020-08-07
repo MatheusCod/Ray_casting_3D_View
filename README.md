@@ -5,7 +5,7 @@ Ray casting build using Lua programming language and LÖVE 11.3 framework.
 Instructions on how to run the program can be found at: https://love2d.org/wiki/Getting_Started#Running_Games
 
 ## How to play
-The arrows keys move the character. The 'Tab' key ables/disable the 2D view by the right bottom of the screen the game's mode.
+The WASD/arrows keys move the character. The 'Tab' key ables/disable the 2D view by the right bottom of the screen the game's mode.
 
 ## Previews
 <p>
