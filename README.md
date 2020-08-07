@@ -9,5 +9,5 @@ The WASD/arrows keys move the character. The 'Tab' key ables/disable the 2D view
 
 ## Previews
 <p>
-  <img src="https://github.com/MatheusCod/Ray_casting_3D/blob/master/preview.gif" width="400" height="300">
+  <img src="https://github.com/MatheusCod/Ray_casting_3D_View/blob/master/preview.gif" width="400" height="300">
 </p>
